@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "presensi-d1",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "4f12eb65-8000-4cf7-a3f8-284de3e9402b",
+			"database_name": "d1-presensi-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
